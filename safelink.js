@@ -24,7 +24,11 @@ var xxx=null;
 if(x=="1"){xxx="is-important-vehicle-insurance-when-eid-mubarak.html"}
 if(x=="2"){xxx="4-advantages-of-having-homecoming-insurance.html"}
 if(x=="3"){xxx="this-is-the-benefit-of-having-insurance-during-holiday-homecoming.html"}
-if(x=="4"){xxx="bri-life-prepare-15-thousand-insurance-policies-for-travelers.html"} a_to_ve[i].href="https://www.saynotoracism.me/2019/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="4"){xxx="bri-life-prepare-15-thousand-insurance-policies-for-travelers.html"}
+if(x=="5"){xxx="accident-due-to-overload-of-insurance-costs.html"}
+if(x=="6"){xxx="after-homecoming-want-insurance-claims-follow-these-7-steps.html"}
+if(x=="7"){xxx="insurance-benefits-and-types-that-must-be-known-dont-choose-the-wrong.html"}
+if(x=="8"){xxx="upset-on-telemarketing-phone-credit-cards-or-insurance-heres-how-to-reject-it.html"} a_to_ve[i].href="https://www.saynotoracism.me/2019/07/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
